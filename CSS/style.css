@@ -30,7 +30,7 @@
   z-index: 2;
   top: 700px;
   border: 2px solid wheat;
-  background-image: url("/Media/img/elden-ring-poster-1.jpg");
+  background-image: url("./Media/img/elden-ring-poster-1.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
