@@ -25,16 +25,16 @@ const quotes = [
   `"As poor, purposeless and naked as the day they were born. A nice club is all they have."`,
 ];
 const images = [
-  "./Media/img/astrologer_class.png",
-  "./Media/img/bandit_class.png",
-  "./Media/img/confessor_class.png",
-  "./Media/img/hero_class.png",
-  "./Media/img/prisoner_class.png",
-  "./Media/img/prophet_class.png",
-  "./Media/img/samurai_class.png",
-  "./Media/img/vagabond_class.png",
-  "./Media/img/warrior_class.png",
-  "./Media/img/wretch_class.png",
+  "./Media/IMG/astrologer_class.png",
+  "./Media/IMG/bandit_class.png",
+  "./Media/IMG/confessor_class.png",
+  "./Media/IMG/hero_class.png",
+  "./Media/IMG/prisoner_class.png",
+  "./Media/IMG/prophet_class.png",
+  "./Media/IMG/samurai_class.png",
+  "./Media/IMG/vagabond_class.png",
+  "./Media/IMG/warrior_class.png",
+  "./Media/IMG/wretch_class.png",
 ];
 const classes = [
   "Astrologer",
